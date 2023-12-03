@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crud-redux/static/css/main.a1de1493.css",
-    "main.js": "/crud-redux/static/js/main.f02fc7ad.js",
+    "main.css": "/crud-redux/static/css/main.fb36bd73.css",
+    "main.js": "/crud-redux/static/js/main.10104a6b.js",
     "static/media/bootstrap-icons.woff?": "/crud-redux/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
     "static/media/bootstrap-icons.woff2?": "/crud-redux/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
     "index.html": "/crud-redux/index.html",
-    "main.a1de1493.css.map": "/crud-redux/static/css/main.a1de1493.css.map",
-    "main.f02fc7ad.js.map": "/crud-redux/static/js/main.f02fc7ad.js.map"
+    "main.fb36bd73.css.map": "/crud-redux/static/css/main.fb36bd73.css.map",
+    "main.10104a6b.js.map": "/crud-redux/static/js/main.10104a6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1de1493.css",
-    "static/js/main.f02fc7ad.js"
+    "static/css/main.fb36bd73.css",
+    "static/js/main.10104a6b.js"
   ]
 }
